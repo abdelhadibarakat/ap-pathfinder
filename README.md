@@ -1,4 +1,4 @@
-# Academic Pathway System
+# AP Pathfinder
 
 ## Overview
 This project is a Python-based academic planning system that helps students create personalized AP course pathways based on their academic profile.
