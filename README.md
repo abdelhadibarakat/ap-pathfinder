@@ -22,9 +22,9 @@ It then recommends an optimized AP sequence and can estimate future AP performan
 ## How to Run
 1. Ensure you have [Python](https://www.python.org/downloads/) installed.
 2. Clone this repository:
-   `git clone https://github.com/AbdelhadiBarakat/APPathfinder.git`
+   `git clone https://github.com/abdelhadibarakat/ap-pathfinder.git`
 3. Navigate to the folder:
-   `cd APPathfinder`
+   `cd ap-pathfinder`
 4. Run the script:
    `python APPathfinder.py`
 
